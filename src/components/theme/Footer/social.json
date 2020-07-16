@@ -1,26 +1,20 @@
 [
   {
-    "id": 0,
-    "name": "Telegram",
-    "link": "https://t.me/smakosh",
-    "icon": "/icons/telegram.svg"
-  },
-  {
     "id": 1,
     "name": "Github",
-    "link": "https://github.com/smakosh",
+    "link": "https://github.com/RhysWilliams12",
     "icon": "/icons/github.svg"
   },
   {
     "id": 2,
-    "name": "StackOverflow",
-    "link": "https://stackoverflow.com/users/story/7396786",
-    "icon": "/icons/stackoverflow.svg"
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/in/rhys-williams-38a5019b/",
+    "icon": "/icons/linkedin.svg"
   },
   {
     "id": 3,
     "name": "Twitter",
-    "link": "https://twitter.com/smakosh",
+    "link": "https://twitter.com/rhys6052",
     "icon": "/icons/twitter.svg"
   }
 ]
